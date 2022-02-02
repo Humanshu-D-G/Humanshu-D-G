@@ -53,6 +53,9 @@
     <img width ='50px' src ='LOGOs/Linux.svg'>
   </a>
   <a>
+    <img width ='50px' src ='LOGOs/Bash.svg'>
+  </a>
+  <a>
     <img width ='50px' src ='LOGOs/Google Cloud.svg'>
   </a>
   <a>
