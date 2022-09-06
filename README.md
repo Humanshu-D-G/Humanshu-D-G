@@ -19,7 +19,6 @@
 
 ## 📜 Education
 - Pursuing **Game Design and Gamefication Course** from Edugametion Oy, Finland. <br>
-- Pursuing **Bachelor of Arts(Hons) Psychology** from IGNOU, New Delhi. <br>
 - Pursuing **Bachelor of Technology in Computer Technology** from YCCE, Nagpur. <br>
 - Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. <br> <br>
 
